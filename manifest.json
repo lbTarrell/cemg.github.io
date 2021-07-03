@@ -1,0 +1,25 @@
+
+  
+  {
+    "name": "CEMG",
+    "short_name": "CEMG",
+    "theme_color": "#995a6d",
+    "background_color": "#000000",
+    "orientation": "portrait",
+    "display": "fullscreen",
+    "start_url": "http://127.0.0.1/dashboard/phpinfo.php",
+    // "start_url": "http://192.168.68.104/dashboard/phpinfo.php",
+
+    "icons": [
+      {
+        "src": "70.png",
+        "sizes": "70x70",
+        "type": "image/png"
+      },
+      {
+      "src": "256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+      }
+    ]
+  }
